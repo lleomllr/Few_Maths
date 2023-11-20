@@ -1,2 +1,2 @@
 # Few-Maths
-Some classical algorithms 
+Implementing Some classic algorithms 
